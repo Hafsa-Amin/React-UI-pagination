@@ -1,0 +1,9 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.active {
+  font-weight: bold;
+  font-size: 20px;
+  color: blue;
+}
